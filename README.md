@@ -4,7 +4,7 @@ JSQL is a library that is built on top of Java 1.8 version. The library is getti
 
 Pending Updates:
 
-  1- Add outer joins 
+  1- Add outer joins <br />
   2- Change String query to StringBuilder 
   3- Add inline on statement with the join statement 
   4- Fix the condition methods to accept (paramName, Operator, Value) other than (paramName, Value, Operator)
